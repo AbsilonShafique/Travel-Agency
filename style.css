@@ -29,7 +29,7 @@ nav{
 .bg-section{
     margin-top: 30px;
     text-align: center;
-    background-image: url(../Images/Group\ 13.png);
+    background-image: url(Images/Group\ 13.png);
     background-repeat: no-repeat;
     height: 500px;
     width: 100%;
@@ -83,7 +83,7 @@ nav{
      justify-content: space-around;
  }
  .first-top{
-     background-image: url(../Images/Rectangle\ 5.png);
+     background-image: url(Images/Rectangle\ 5.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
@@ -94,7 +94,7 @@ nav{
      color: white;
  }
  .second-top{
-     background-image: url(../Images/Rectangle\ 8.png);
+     background-image: url(Images/Rectangle\ 8.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
@@ -105,7 +105,7 @@ nav{
      color: white;
  }
  .first-middle{
-     background-image: url(../Images/Rectangle\ 6.png);
+     background-image: url(Images/Rectangle\ 6.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
@@ -116,7 +116,7 @@ nav{
      color: white;
  }
  .second-middle{
-     background-image: url(../Images/Rectangle\ 7.png);
+     background-image: url(Images/Rectangle\ 7.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
@@ -127,7 +127,7 @@ nav{
      color: white;
  }
  .third-middle{
-     background-image: url(../Images/Rectangle\ 9.png);
+     background-image: url(Images/Rectangle\ 9.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
@@ -138,7 +138,7 @@ nav{
      color: white;
  }
  .first-down{
-     background-image: url(../Images/Rectangle\ 11.png);
+     background-image: url(Images/Rectangle\ 11.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
@@ -149,7 +149,7 @@ nav{
      color: white;
  }
  .second-down{
-     background-image: url(../Images/Rectangle\ 10.png);
+     background-image: url(Images/Rectangle\ 10.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
@@ -210,7 +210,7 @@ nav{
  .right-newsletter{
     width: 50%;
     height: 350px;
-    background-image: url(../Images/Rectangle\ 8\ \(1\).png);
+    background-image: url(Images/Rectangle\ 8\ \(1\).png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
